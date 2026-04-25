@@ -1,0 +1,6 @@
+# .gitignore ファイルの中身
+.env
+__pycache__/
+*.pyc
+.DS_Store
+venv/
