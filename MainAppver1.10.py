@@ -8,8 +8,8 @@ CustomTkinterを用いたモダンなユーザーインターフェースを提�
 """
 
 __author__ = 'KR'
-__version__ = '1.1.2'
-__date__ = '2026/1/24'
+__version__ = '1.2.3'
+__date__ = '2026/4/20'
 
 
 import customtkinter as ctk
