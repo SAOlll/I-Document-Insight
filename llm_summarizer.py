@@ -8,7 +8,7 @@ TextRankアルゴリズムに基づき、文間の類似度をグラフ構造と
 
 __author__ = 'KR'
 __version__ = '1.1.2'
-__date__ = '2026/1/24'
+__date__ = '2026/4/12'
 
 import os
 from google import genai
